@@ -2,82 +2,72 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Berkay Gündüz
     - name: Date of Birth
-      value: 14th March 1879
+      value: N/A
     - name: Languages
-      value: English, German
+      value: Turkish (native), English (professional working proficiency), German (introductory)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.S. Computer Science
+      institution: Bilkent University, Ankara, Turkey
+      year: Sep 2021 - Jun 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - CGPA 3.13/4.00
+        - High Honor Student for 2021-2022
+        - 414th rank over 2.5 million in the Higher Education Institutions Exam
+        - Graduated as valedictorian from high school before university
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Software Engineer Intern
+      institution: Cape of Good Code GmbH, Part-time
+      year: Jan 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developing software analysis solutions for the DETANGLE Analysis Suite
+        - Using Python, Django, Vue.js, Git, Jira
+    - title: Software Developer
+      institution: Nart Bilişim Hizmetleri, Part-time
+      year: Aug 2023 - Dec 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Developed full-stack solutions for the STAR project - Turkcell’s network discovery, inventory, and alarm management software including 40+ issues
+        - Used Python, Django, REST API, SOAP API, MySQL, JavaScript, jQuery, Git, and Linux technologies
+    - title: Backend Developer Intern
+      institution: Nart Bilişim Hizmetleri, Internship
+      year: Jun 2023 - Aug 2023
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Developed a network discovery script and solutions for 20+ major issues
+        - Used Python, Django, SOAP API, Git, and Linux technologies
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/berkaygunduzz/geddit">geddit</a>
+      year: N/A
+      description: A Django API service to wrap Reddit posts
+    - title: Moondark / MSC110 Project
+      year: N/A
+      description: Aims to generate music like Beethoven's Moonlight Sonata and Erik Satie's Gymnopédie 1 with LSTM using Python 3 and TensorFlow
+    - title: Lucid Dreams / CS102 Project
+      year: N/A
+      description: A 2D platformer game with the feature of a custom-level editor using Java and PostgreSQL
+    - title: Ozan / Research Competition Project
+      year: N/A
+      description: A collection of projects that aims to create songs like Turkish folk musician Aşık Veysel with artificial neural networks using Python for TÜBITAK 2204-A High School Students Research Students Competition
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - TensorFlow Developer Certificate
+        - Deep Learning Specialization
+    - year: 2020
       items:
-        - Max Planck Medal
+        - 3rd Rank, Regional third degree at TÜBİTAK (The Scientific and Technical Research Council of Turkey) 2204-A High School Students Research Students Competition
 
 - title: Academic Interests
   type: nested_list
@@ -86,12 +76,8 @@
       items:
         - Description 1.
         - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Photography, cinema, nature, trekking, history, politics, philosophy

@@ -1,160 +1,163 @@
 {
-  "name": "Berkay Gündüz",
-  "label": "Software Developer",
-  "picture": "",
-  "email": "",
-  "phone": "",
-  "website": "linkedin.com/in/berkay-gunduz",
-  "summary": "Software Developer with experience in full-stack development, software analysis, and deep learning applications. Graduated with a B.S. in Computer Science from Bilkent University. Skilled in Python, Java, C/C++, TypeScript, Fast API, Django, Vue.js, TensorFlow, MySQL, Git, Bash Script, Docker, and Linux. Strong background in OOP, software analysis, and deep learning.",
-  "location": {
-    "address": "",
-    "postalCode": "",
-    "city": "",
-    "countryCode": "",
-    "region": ""
+  "basics": {
+    "name": "Berkay Gündüz",
+    "label": "Software Developer",
+    "email": "",
+    "phone": "",
+    "url": "https://www.linkedin.com/in/berkay-gunduz",
+    "summary": "I am a software developer with experience in full-stack development, software analysis, and deep learning applications. I am skilled in Python, Java, C/C++, TypeScript, and various frameworks and technologies including Django, Vue.js, TensorFlow, MySQL, Git, Bash Script, and Docker.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "berkay-gunduz",
+        "url": "https://www.linkedin.com/in/berkay-gunduz"
+      },
+      {
+        "network": "GitHub",
+        "username": "berkaygunduzz",
+        "url": "https://github.com/berkaygunduzz"
+      }
+    ]
   },
-  "profiles": [
-    {
-      "network": "LinkedIn",
-      "username": "berkay-gunduz",
-      "url": "linkedin.com/in/berkay-gunduz"
-    },
-    {
-      "network": "GitHub",
-      "username": "berkaygunduzz",
-      "url": "github.com/berkaygunduzz"
-    },
-    {
-      "network": "GitLab",
-      "username": "berkaygunduz",
-      "url": "gitlab.com/berkaygunduz"
-    }
-  ],
   "work": [
     {
-      "company": "Cape of Good Code GmbH",
+      "name": "Cape of Good Code GmbH",
       "position": "Software Engineer Intern",
-      "website": "capeofcoogcode.com/en",
-      "startDate": "Jan 2024",
-      "endDate": "Present",
+      "startDate": "2024-01-01",
+      "endDate": "",
       "summary": "Developing software analysis solutions for the DETANGLE Analysis Suite using Python, Django, Vue.js, Git, and Jira."
     },
     {
-      "company": "Nart Bilişim Hizmetleri",
-      "position": "Software Developer",
-      "website": "star-suite.com",
-      "startDate": "Aug 2023",
-      "endDate": "Dec 2023",
-      "summary": "Developed full-stack solutions for the STAR project - Turkcell’s network discovery, inventory, and alarm management software. Utilized Python, Django, REST API, SOAP API, MySQL, JavaScript, jQuery, Git, and Linux technologies."
+      "name": "Nart Bilişim Hizmetleri",
+      "position": "Software Developer (Part-time)",
+      "startDate": "2023-08-01",
+      "endDate": "2023-12-01",
+      "summary": "Developed full-stack solutions for the STAR project - Turkcell’s network discovery, inventory, and alarm management software."
     },
     {
-      "company": "Nart Bilişim Hizmetleri",
+      "name": "Nart Bilişim Hizmetleri",
       "position": "Backend Developer Intern",
-      "website": "technarts.com",
-      "startDate": "June 2023",
-      "endDate": "Aug 2023",
-      "summary": "Developed a network discovery script and solutions for major issues using Python, Django, SOAP API, Git, and Linux technologies."
+      "startDate": "2023-06-01",
+      "endDate": "2023-08-01",
+      "summary": "Developed a network discovery script and solutions for major issues."
     }
   ],
   "education": [
     {
       "institution": "Bilkent University",
       "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "Sep 2021",
-      "endDate": "Jun 2025",
-      "gpa": "3.13/4.00",
-      "courses": [
-        "High Honor Student for 2021-2022",
-        "414th rank over 2.5 million in the Higher Education Institutions Exam",
-        "Graduated as valedictorian from the high school before university"
-      ]
+      "studyType": "Undergraduate",
+      "startDate": "2021-09-01",
+      "endDate": "2025-06-01",
+      "score": "3.13/4.00",
+      "courses": ["CGPA 3.13/4.00", "High Honor Student for 2021-2022", "414th rank over 2.5 million in the Higher Education Institutions Exam", "Graduated as valedictorian from the high school before university"]
     }
   ],
   "projects": [
     {
       "name": "geddit",
-      "description": "A Django API service to wrap Reddit posts",
+      "summary": "A Django API service to wrap Reddit posts.",
       "url": "https://github.com/berkaygunduzz/geddit"
     },
     {
       "name": "Moondark",
-      "description": "Aims to generate music like Beethoven's Moonlight Sonata and Erik Satie's Gymnopédie 1 with LSTM using Python 3 and TensorFlow"
+      "summary": "Aims to generate music like Beethoven's Moonlight Sonata and Erik Satie's Gymnopédie 1 with LSTM using Python 3 and TensorFlow."
     },
     {
       "name": "Lucid Dreams",
-      "description": "A 2D platformer game with the feature of a custom-level editor using Java and PostgreSQL"
+      "summary": "A 2D platformer game with the feature of a custom-level editor using Java and PostgreSQL."
     },
     {
       "name": "Ozan",
-      "description": "A collection of projects that aims to create songs like Turkish folk musician Aşık Veysel with artificial neural networks using Python for TÜBITAK 2204-A High School Students Research Students Competition",
+      "summary": "A collection of projects that aims to create songs like Turkish folk musician Aşık Veysel with artificial neural networks using Python for TÜBITAK 2204-A High School Students Research Students Competition.",
       "url": "https://gitlab.com/tubitak2020"
     }
   ],
-  "volunteering": [
+  "volunteer": [
     {
       "organization": "Bilkent University",
       "position": "Webmaster & Lab Tutor",
-      "startDate": "Sep 2022",
+      "startDate": "2022-09-01",
       "endDate": "Present",
       "summary": "Maintenance of the WordPress websites of the Department of Computer Engineering and Faculty of Engineering. Lab tutor for CS 115 - Introduction to Programming in Python, and for CS 102 Algorithms and Programming II (Java)."
     },
     {
       "organization": "IEEE Bilkent Student Branch",
       "position": "Chapter Chair",
-      "startDate": "Jun 2022",
-      "endDate": "Jun 2023",
-      "summary": "Led various organizations with 500+ participants as the chair of the Computer Society, including sessions with tech companies, programming contests, meetings with alums, and Python and Java programming tutorials."
+      "startDate": "2022-06-01",
+      "endDate": "2023-06-01",
+      "summary": "As the chair of the Computer Society, led various organizations with 500+ participants."
     }
   ],
-  "skills": {
-    "languages": [
-      "Python",
-      "Java",
-      "C/C++",
-      "TypeScript"
-    ],
-    "frameworks": [
-      "Fast API",
-      "Django",
-      "Vue.js",
-      "TensorFlow"
-    ],
-    "databases": [
-      "MySQL"
-    ],
-    "tools": [
-      "Git",
-      "Bash Script",
-      "Docker"
-    ],
-    "operatingSystems": [
-      "Linux: Ubuntu",
-      "OpenSUSE",
-      "RedHat"
-    ],
-    "other": [
-      "Software engineering",
-      "Full-stack development",
-      "OOP",
-      "Software analysis",
-      "Deep learning and applications"
-    ]
-  },
+  "skills": [
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": ["Fast API", "Django", "TensorFlow"]
+    },
+    {
+      "name": "Software engineering",
+      "level": "",
+      "keywords": ["Requirements analysis", "Software analysis", "Design patterns"]
+    },
+    {
+      "name": "Full-stack development",
+      "level": "",
+      "keywords": ["Backend development", "API development", "Frontend development"]
+    },
+    {
+      "name": "Database Management",
+      "level": "",
+      "keywords": ["MySQL", "PostgresSQL", "SQLite"]
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": ["Ubuntu", "OpenSUSE", "RedHat"]
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": ["Object oriented programming", "JUnit"]
+    },
+    {
+      "name": "C/C++",
+      "level": "",
+      "keywords": ["Algorithms", "Data structures"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": ["jQuery", "Vue.js", "React.js"]
+    },
+    {
+      "name": "Deep learning and applications",
+      "level": "",
+      "keywords": ["Deep neural networks", "Convolutional neural networks", "Residual Neural Networks"]
+    }
+  ],
   "certificates": [
     {
-      "title": "TensorFlow Developer Certificate",
-      "date": "Nov 2022",
+      "name": "TensorFlow Developer Certificate",
+      "date": "2022-11-01",
       "url": "https://www.credential.net/750a4b7f-38f2-42ea-b10f-af161e67103f"
     },
     {
-      "title": "Deep Learning Specialization",
-      "date": "Oct 2022",
+      "name": "Deep Learning Specialization",
+      "date": "2022-10-01",
       "url": "https://www.coursera.org/verify/specialization/N4BRUUBUU4R7"
     },
     {
-      "title": "Mustafa Akgül Free Software Summer Camp Python 3 Programming",
-      "date": "Aug 2019"
+      "name": "Mustafa Akgül Free Software Summer Camp Python 3 Programming",
+      "date": "2019-08-01",
+      "url": ""
     }
   ],
   "languages": [
@@ -171,32 +174,27 @@
       "fluency": "Introductory"
     }
   ],
-  "activities": [
-    {
-      "name": "Google Developers Machine Learning Bootcamp",
-      "startDate": "Oct 2022",
-      "summary": "Participant. Learned fundamentals of neural networks, machine learning, deep learning, convolutional neural networks, natural language processing, and RNN, and programming deep learning solutions using Python and TensorFlow."
-    },
-    {
-      "name": "Google Code-In",
-      "startDate": "Dec 2019",
-      "endDate": "Jan 2020",
-      "summary": "Participant Developer. Completed several tasks given by Fedora Project and Copyleft Games using skills in Python programming and Linux.",
-      "url": "https://codein.withgoogle.com/archive/search/?q=guaduator"
-    },
-    {
-      "name": "TÜBİTAK 2204-A",
-      "startDate": "Mar 2020",
-      "summary": "Regional third degree at TÜBİTAK (The Scientific and Technical Research Council of Turkey) 2204-A High School Students Research Students Competition. Achieved 3rd Rank."
-    }
-  ],
   "interests": [
-    "Photography",
-    "Cinema",
-    "Nature",
-    "Trekking",
-    "History",
-    "Politics",
-    "Philosophy"
+    {
+      "name": "Photography"
+    },
+    {
+      "name": "Cinema"
+    },
+    {
+      "name": "Nature"
+    },
+    {
+      "name": "Trekking"
+    },
+    {
+      "name": "History"
+    },
+    {
+      "name": "Politics"
+    },
+    {
+      "name": "Philosophy"
+    }
   ]
 }
